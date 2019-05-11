@@ -1,11 +1,17 @@
 {
   "name": "root",
   "private": true,
+  "scripts": {
+    "prepare": "lerna bootstrap"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:zhanghuai/lerna-study.git"
   },
   "devDependencies": {
     "lerna": "^3.13.2"
-  }
+  },
+  "workspaces": [
+    "packages/*"
+  ]
 }

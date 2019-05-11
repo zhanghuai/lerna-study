@@ -6,5 +6,6 @@
   "dependencies": {
     "@kaneki/tool-kit": "^0.0.3",
     "cross-env": "^5.2.0"
-  }
+  },
+  "gitHead": "3001f59ddbf503d22baafd7644c35f5535b60481"
 }

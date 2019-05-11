@@ -2,5 +2,14 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.3"
+  "version": "0.0.3",
+  "npmClient": "yarn",
+  "stream": true,
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "npmClient": "npm",
+      "message": "chore(release): publish"
+    }
+  }
 }
