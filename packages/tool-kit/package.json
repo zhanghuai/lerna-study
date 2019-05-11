@@ -1,6 +1,6 @@
 {
   "name": "@kaneki/tool-kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "gitHead": "9ea4cb3d37322f289fbd598cb9f1f9936b4843ea"
