@@ -8,10 +8,13 @@
     "type": "git",
     "url": "git@github.com:zhanghuai/lerna-study.git"
   },
-  "devDependencies": {
-    "lerna": "^3.13.4"
-  },
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "lerna-changelog": "^0.8.2"
+  },
+  "devDependencies": {
+    "lerna": "^3.13.4"
+  }
 }
