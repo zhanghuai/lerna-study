@@ -1,6 +1,6 @@
 {
   "name": "@lerna-study/tool-kit",
-  "version": "0.0.6",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/zhanghuai/lerna-study/tree/master/packages/tool-kit",
