@@ -1,5 +1,7 @@
 {
   "changelog": {
+    "repo": "zhanghuai/lerna-study",
+    "cacheDir": ".changelog",
     "labels": {
       "feat": ":rocket: New Feature",
       "bug": ":bug: Bug Fix",
@@ -11,14 +13,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
+  "version": "1.0.0",
   "npmClient": "yarn",
-  "stream": true,
-  "useWorkspaces": true,
-  "command": {
-    "publish": {
-      "npmClient": "npm",
-      "message": "chore(release): publish %s"
-    }
-  }
+  "useWorkspaces": true
 }
