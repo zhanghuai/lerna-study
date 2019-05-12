@@ -1,11 +1,11 @@
 {
   "name": "@lerna-study/http-kit",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/zhanghuai/lerna-study/tree/master/packages/http-kit",
   "dependencies": {
-    "@lerna-study/tool-kit": "^0.0.4",
+    "@lerna-study/tool-kit": "^0.0.5",
     "cross-env": "^5.2.0"
   }
 }
