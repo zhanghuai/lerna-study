@@ -1,10 +1,10 @@
 {
-  "name": "@kaneki/tool-kit",
+  "name": "@lerna-study/tool-kit",
   "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
+  "repository": "https://github.com/zhanghuai/lerna-study/tree/master/packages/tool-kit",
   "dependencies": {
     "cross-env": "^5.2.0"
-  },
-  "gitHead": "3001f59ddbf503d22baafd7644c35f5535b60481"
+  }
 }

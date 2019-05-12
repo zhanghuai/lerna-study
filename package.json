@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "lerna-study",
   "private": true,
   "scripts": {
     "prepare": "lerna bootstrap"
@@ -9,7 +9,7 @@
     "url": "git@github.com:zhanghuai/lerna-study.git"
   },
   "devDependencies": {
-    "lerna": "^3.13.2"
+    "lerna": "^3.13.4"
   },
   "workspaces": [
     "packages/*"
